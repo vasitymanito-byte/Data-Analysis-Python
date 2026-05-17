@@ -1,0 +1,46 @@
+==============================================================
+  DATA ANALYTICS DASHBOARD — STATISTICAL INSIGHTS REPORT
+==============================================================
+
+── 1. OVERALL KPIs ─────────────────────────────────────────
+  Total Orders  : 2,000
+  Total Revenue : $3,133,027.40
+  Total Profit  : $1,266,571.05
+  Avg Margin    : 40.30%
+  Units Sold    : 21,203
+  Avg Order Val : $1566.51
+
+── 2. YEAR-OVER-YEAR GROWTH ─────────────────────────────────
+  2023 Revenue  : $1,473,518.70
+  2024 Revenue  : $1,659,508.70
+  YoY Growth    : +12.62%
+
+── 3. T-TEST: ONLINE vs IN-STORE ORDER VALUE ────────────────
+  Online mean   : $1607.15
+  In-Store mean : $1680.94
+  t-statistic   : -0.3556
+  p-value       : 0.7223
+  Significant   : NO
+
+── 4. CORRELATION: DISCOUNT RATE vs MARGIN % ────────────────
+  Pearson r     : -0.9982
+  p-value       : 0.0000
+  Interpretation: Strong negative correlation
+
+── 5. TOP PERFORMERS ────────────────────────────────────────
+  Best Region   : South  ($682,214.85)
+  Best Category : Electronics  ($844,483.65 profit)
+  Top Sales Rep : Alice Morgan  ($487,350.10)
+
+── 6. SEASONAL PATTERNS ─────────────────────────────────────
+  Peak Quarter  : Q3  (avg $1,835.57/order)
+  Weakest Qtr   : Q1  (avg $1,404.56/order)
+
+── 7. ACTIONABLE INSIGHTS (for Stakeholders) ────────────────
+  • South region drives the most revenue — prioritise marketing spend here.
+  • Electronics has the highest profit — consider expanding SKU range.
+  • Discounts show a 1.00 correlation with margin erosion; review discount policy.
+  • Q3 is peak season — pre-load inventory and campaigns by Q2.
+  • YoY growth of +12.62% suggests healthy expansion.
+
+==============================================================
